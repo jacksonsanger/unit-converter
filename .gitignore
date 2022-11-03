@@ -90,3 +90,12 @@ fastlane/test_output
 iOSInjectionProject/
 *.pbxproj
 *.pbxproj
+Converter/Converter.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Converter/.DS_Store
+.DS_Store
+Converter/Converter.xcodeproj/project.pbxproj
+Converter/Converter.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Converter/Converter.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Converter/Converter/Assets.xcassets/AccentColor.colorset/Contents.json
+Converter/Converter/Assets.xcassets/AppIcon.appiconset/Contents.json
+Converter/Converter/Assets.xcassets/Contents.json
